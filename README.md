@@ -2,6 +2,6 @@
   <img
     src="https://render.gitanimals.org/farms/hyewon0924"
     width="1000"
-    height="600" 
+    height="60" 
   />
 </a>
