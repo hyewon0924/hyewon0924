@@ -1,6 +1,6 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4386f0,50:b166ee,100:da537d&height=180&text=Hyewon’s%20GitHub%20&fontColor=ffffff&fontSize=42&fontAlign=77&fontAlignY=28)
--->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4386f0,50:b166ee,100:da537d&height=280&text=Hyewon’s%20GitHub%20&fontColor=ffffff&fontSize=46&fontAlignY=37)
+
+<br />
 
 <div align="center">
   <img src="https://render.gitanimals.org/lines/hyewon0924?pet-id=654195037824466977" width="30%" height="120"/>
@@ -8,9 +8,16 @@
   <img src="https://render.gitanimals.org/lines/hyewon0924?pet-id=654195004429419208" width="30%" height="120"/>
 </div>
 
-
 <!--
-## ⚙️ Skills 
+
+<br /><br />
+
+<div align="center">
+  <b>⚙️ Skills</b>
+</div>
+
+<br />
+
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -33,4 +40,5 @@
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
+
 -->
