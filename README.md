@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4386f0,50:b166ee,100:da537d&height=280&text=Hyewon’s%20GitHub%20&fontColor=ffffff&fontSize=46&fontAlignY=37)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4386f0,50:b166ee,100:da537d&height=230&text=Hyewon’s%20GitHub%20&fontColor=ffffff&fontSize=44&fontAlignY=34)
 
-<br />
 
 <div align="center">
   <img src="https://render.gitanimals.org/lines/hyewon0924?pet-id=654195037824466977" width="30%" height="120"/>
@@ -13,7 +12,7 @@
 <br /><br />
 
 <div align="center">
-  <b>⚙️ Skills</b>
+  <b>⚙️ Major Skills</b>
 </div>
 
 <br />
